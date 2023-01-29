@@ -1,0 +1,3 @@
+export const USER_INPUT='USER_INPUT';
+export const USER_LOGIN_INFO = 'USER_LOGIN_INFO';
+export const USER_UPDATE_PROFILE = 'USER_UPDATE_PROFILE';
